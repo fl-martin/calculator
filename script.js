@@ -4,7 +4,7 @@ const display = document.getElementById('display');
 const del = document.getElementById('delete');
 const decimal = document.getElementById('n.')
 const clear = document.getElementById('AC');
-const equal = document.getElementById('=');
+const equal = document.getElementById('equal');
 const percentage = document.getElementById('n%');
 const plusMinus = document.getElementById('n+/-');
 
