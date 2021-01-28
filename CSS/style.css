@@ -1,5 +1,6 @@
 body {
     display: flex;
+    overflow: hidden;
     height: 100vh;
     width: 100vw;
     flex-direction: column;
@@ -64,3 +65,11 @@ button:focus {
     background-color: rgb(175, 103, 44) ;
 }
 
+footer {
+    text-align: center;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    background-color: rgba(180, 172, 191, 0.2);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: smaller;
+ }
